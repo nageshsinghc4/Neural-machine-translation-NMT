@@ -4,4 +4,4 @@ Create a LSTM encoder-decoder model that will translate English sentences into t
 
 The data set can be downloaded from [here](http://www.manythings.org/anki/).
 
-For more information and step by step explaination, please go through this medium article: https://medium.com/analytics-vidhya/introduction-to-neural-machine-translation-nmt-c37b264eb9f1
+For more information and step by step explaination, please go through this medium article: https://www.theaidream.com/post/how-ai-is-changing-personal-data-tracking
