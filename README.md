@@ -1,6 +1,14 @@
 # Neural-machine-translation-NMT
 ![NMT](https://github.com/nageshsinghc4/Neural-machine-translation-NMT/blob/master/021519-pic2.png)
 
+Machine translation is a subfield of computational linguistics that is focused on the task of automatically converting source text in one language to text in another language.
+
+In machine translation, the input already consists of a series of symbols in some language, and the computer program must convert this into a series of symbols in a different language.
+
+Neural machine translation (NMT) is a proposition to machine translation that uses an artificial neural network to predict the probability of a sequence of words, typically modeling whole sentences in a single integrated model.
+
+With the power of Neural networks, Neural Machine Translation (NMT) has emerged as the most powerful algorithm to perform this task. This state-of-the-art algorithm is an application of deep learning in which massive datasets of translated sentences are used to train a model capable of translating between any two languages.
+
 Here, we will create a LSTM encoder-decoder model that will translate English sentences into their French-language counterparts using Keras and python.
 
 The data set can be downloaded from [here](http://www.manythings.org/anki/).
