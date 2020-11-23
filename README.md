@@ -13,7 +13,7 @@ Here, we will create a LSTM encoder-decoder model that will translate English se
 
 The data set can be downloaded from [here](http://www.manythings.org/anki/).
 
-For more information and step by step explaination, please go through this medium article: https://www.theaidream.com/post/how-ai-is-changing-personal-data-tracking
+For more information and step by step explaination, please go through this article: https://www.theaidream.com/post/how-ai-is-changing-personal-data-tracking
 
 ## Predictions
 To test the performance we will randomly choose a sentence from the input_sentences list, retrieve the corresponding padded sequence for the sentence, and will pass it to the translate_sentence() method. The method will return the translated sentence.
