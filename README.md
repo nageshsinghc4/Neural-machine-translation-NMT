@@ -29,3 +29,5 @@ print('French translation : ', translation)
 **Results:**
 
 ![Results](https://github.com/nageshsinghc4/Neural-machine-translation-NMT/blob/master/Screenshot%202020-10-16%20at%209.43.26%20AM.png)
+
+NMT with attention mechanism coming soon ...
